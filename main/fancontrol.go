@@ -37,7 +37,7 @@ const (
 	delaySeconds = 30
 
 	// GPIO-1/BCM "18"/Pin 12 on a Raspberry Pi 3
-	defaultPin = 1
+	defaultPin = 26
 
 	// name of the service
 	name        = "fancontrol"
